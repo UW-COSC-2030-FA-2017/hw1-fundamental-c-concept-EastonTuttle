@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimalistClassTemplateCode", "MinimalistClassTemplateCode\MinimalistClassTemplateCode.vcxproj", "{B5DD3AF8-D334-4755-9D9B-55929076CC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Debug|x64.ActiveCfg = Debug|x64
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Debug|x64.Build.0 = Debug|x64
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Debug|x86.Build.0 = Debug|Win32
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Release|x64.ActiveCfg = Release|x64
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Release|x64.Build.0 = Release|x64
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Release|x86.ActiveCfg = Release|Win32
+		{B5DD3AF8-D334-4755-9D9B-55929076CC30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3585D55F-E0B7-4437-8796-BAFF7BEF9968}
+	EndGlobalSection
+EndGlobal

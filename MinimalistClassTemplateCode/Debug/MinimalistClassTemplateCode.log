@@ -1,0 +1,4 @@
+﻿  MinimalistClassTemplateCode.cpp
+c:\users\easton tuttle\documents\visual studio 2017\projects\minimalistclasstemplatecode\minimalistclasstemplatecode\minimalistclasstemplatecode.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+  MinimalistClassTemplateCode.vcxproj -> C:\Users\Easton Tuttle\Documents\Visual Studio 2017\Projects\MinimalistClassTemplateCode\Debug\MinimalistClassTemplateCode.exe
+  MinimalistClassTemplateCode.vcxproj -> C:\Users\Easton Tuttle\Documents\Visual Studio 2017\Projects\MinimalistClassTemplateCode\Debug\MinimalistClassTemplateCode.pdb (Partial PDB)
